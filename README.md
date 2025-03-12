@@ -1,5 +1,5 @@
 # 🌟 **Infinity and Beyond Solutions** 🌟  
-### Transforming Ideas Into Reality, One Digital Experience at a Time 🚀
+### <span id="typing"></span>
 
 ![Infinity and Beyond Animation](https://media.giphy.com/media/26tPoyDhjiJ2kOq6w/giphy.gif)
 
@@ -43,3 +43,18 @@ At **Infinity and Beyond Solutions**, we’re excited to help you turn your idea
 📧 **Contact Us**: [Your Contact Info or Link to Contact Form]  
 🔗 **Visit Our Website**: [Link to Website]
 
+<script>
+  let i = 0;
+  let text = "Transforming Ideas Into Reality, One Digital Experience at a Time 🚀";
+  let speed = 100;
+
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typing").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  window.onload = typeWriter;
+</script>
