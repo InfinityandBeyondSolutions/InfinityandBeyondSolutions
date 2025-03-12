@@ -1,7 +1,8 @@
 # 🌟 **Infinity and Beyond Solutions** 🌟  
-### <span id="typing"></span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=008080&width=500&lines=Transforming+Ideas+Into+Reality!+One+Digital+Experience+At+A+Time!👨‍💻" alt="Typing SVG" />
+</p>
 
-![Infinity and Beyond Animation](https://media.giphy.com/media/26tPoyDhjiJ2kOq6w/giphy.gif)
 
 ---
 
@@ -22,7 +23,7 @@ We don't just build websites and apps; we craft experiences that drive success a
 - **Innovative Solutions**: We focus on innovation, scalability, and future-proofing your digital products.
 - **Collaboration**: We work closely with you at every stage to ensure the product aligns perfectly with your goals.
 
-![Innovation](https://media.giphy.com/media/7TtVw9B5z6AD3zfgWa/giphy.gif)
+
 
 ## 🛠️ **Our Approach**
 
@@ -43,18 +44,5 @@ At **Infinity and Beyond Solutions**, we’re excited to help you turn your idea
 📧 **Contact Us**: [Your Contact Info or Link to Contact Form]  
 🔗 **Visit Our Website**: [Link to Website]
 
-<script>
-  let i = 0;
-  let text = "Transforming Ideas Into Reality, One Digital Experience at a Time 🚀";
-  let speed = 100;
 
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typing").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
 
-  window.onload = typeWriter;
-</script>
