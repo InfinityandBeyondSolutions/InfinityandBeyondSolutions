@@ -1,6 +1,6 @@
 # 🌟 **Infinity and Beyond Solutions** 🌟  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=008080&width=500&lines=Transforming+Ideas+Into+Reality!+One+Digital+Experience+At+A+Time!👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=008080&width=500&lines=Transforming+Ideas+Into+Reality!+👨‍💻" alt="Typing SVG" />
 </p>
 
 
@@ -41,7 +41,7 @@ At **Infinity and Beyond Solutions**, we’re excited to help you turn your idea
 
 ---
 
-📧 **Contact Us**: [Your Contact Info or Link to Contact Form]  
+📧 **Contact Us**: infinityandbeyond.contact@gmail.com  
 🔗 **Visit Our Website**: [Link to Website]
 
 
